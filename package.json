@@ -1,0 +1,11 @@
+{
+  "name": "tests",
+  "dependencies": {
+    "Glarce": "../Glarce",
+    "fs-extra": "^7.0.1",
+    "symlink-dir": "^3.0.1"
+  },
+  "scripts": {
+    "test": "node app"
+  }
+}
